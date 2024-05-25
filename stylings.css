@@ -1,0 +1,43 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 60px;
+}
+h3{
+    color: grey;
+    text-align: center;
+    font-size: 20px;
+}
+p{
+    color: blue;
+    text-align: left;
+    font-size: 1.5em;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: lightgreen;
+}
+
+.header-image {
+    max-width: 200px; /* Adjust as needed */
+    height: auto;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: blue; /* Adjust as needed */
+    font-size: 1em; /* Adjust as needed */
+}
+
+.inline-section{
+    text-align: center;
+}
+
+.link-element {
+    margin-left: 10px; /* Adjust the spacing as needed */
+    color: blue; /* Adjust as needed */
+    font-size: 1em; /* Adjust as needed */
+}
